@@ -35,9 +35,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
-    System.out.println("Hi");
-    System.out.println("added newline from console");
-    System.out.println("added newline from console");
-    System.out.println("added newline from github");
+    System.out.println("Git webhook works");
+   
   }
 }
