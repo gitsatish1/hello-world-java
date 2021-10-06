@@ -36,7 +36,7 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
     System.out.println("Git webhook works");
-     System.out.println("Hello, World");
+
    
   }
 }
